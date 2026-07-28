@@ -12,4 +12,4 @@ const food2="banana"//pick some food
     );
 
 }
-export default Food
+export default Food;
